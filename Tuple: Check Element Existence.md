@@ -16,8 +16,8 @@ print("n" in tuplex)
 print("8" in tuplex)
 ```
 ## Output
-![{43A03585-5060-4BD1-9189-D2316DD6F76C}](https://github.com/user-attachments/assets/68ebfcb9-55cf-45b1-b6bd-7083f5d25349)
-![{24017C92-801A-4F65-B0AD-2160E2401B1E}](https://github.com/user-attachments/assets/b12b5eb5-87aa-47ef-bec7-a059041f5963)
+
+![438591487-4343e5a0-3d81-4091-81b6-dfec31c6a2ca](https://github.com/user-attachments/assets/9eb5f9ee-f253-4ce0-8de0-13535810c69a)
 
 
 ## Result
