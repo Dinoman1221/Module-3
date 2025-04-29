@@ -23,7 +23,8 @@ def remove(a):
             print(a[i],end='')
 ```
 ## Output
-![{35B184B6-18D2-4F8B-A764-9A139D4658E5}](https://github.com/user-attachments/assets/b01c70a1-29ce-47a2-93ad-39c470fca9eb)
+
+![438315354-9cc8e6ce-fca0-4946-a708-a86d031d4503](https://github.com/user-attachments/assets/1a17899e-b00b-4870-a86c-03823006a30d)
 
 
 ## Result
