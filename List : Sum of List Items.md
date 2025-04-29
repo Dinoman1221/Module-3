@@ -10,13 +10,13 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 ```
-items = [200, 175, 150, 125]
+items=[153,147,124,102]
 print(sum(items))
 
 ```
 ## Output
-![{572BF2D3-A6D4-4A29-8489-A0ECDC7E32CF}](https://github.com/user-attachments/assets/585551a5-5941-4f6f-8c3e-1b2cad916eb6)
 
+![438584061-73e17fd1-ed4b-4ed2-b342-ff081715c4bf](https://github.com/user-attachments/assets/66305d32-3488-42d3-a8ba-0f37998fc3e6)
 
 ## Result
 Thus the program executed successfully.
