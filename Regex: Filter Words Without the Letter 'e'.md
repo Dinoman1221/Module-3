@@ -25,7 +25,8 @@ print("Words without 'e':", l1)
 
 ```
 ## Output
-![{41A3E8B9-B230-41FE-B1C3-883678F9773A}](https://github.com/user-attachments/assets/8d4d995c-841e-4473-a1da-c35563608582)
+![Uploading 438590374-fbe52d43-eb10-4615-bd06-3b1dde3da7d2.png…]()
+
 
 
 ## Result
