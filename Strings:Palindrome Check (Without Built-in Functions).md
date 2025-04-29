@@ -21,7 +21,8 @@ else:
     print("The entered string is not palindrome")
 ```
 ## Output
-![{F58A220B-79F6-4A2A-A904-412884287F8A}](https://github.com/user-attachments/assets/847eb747-b6a2-4f40-9b02-1246ff94e2d8)
+
+![438591429-a2db7a2a-9ea9-46ff-a33d-3f3cac2b09eb](https://github.com/user-attachments/assets/0f57db4d-fa15-4c9c-a11b-394defe7f4c5)
 
 
 ## Result
